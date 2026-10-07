@@ -9303,15 +9303,11 @@
     <programme channel="24小时城市联赛轮播台" start="20261007174800 +0800" stop="20261007193200 +0800">
         <title lang="zh">山西晋超联赛第三阶段第三轮全场回放：吕梁市92:75阳泉市</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20261007193200 +0800" stop="20261007213900 +0800">
-        <title lang="zh">辽宁辽超淘汰赛首回合全场回放：本溪队0:0大连队</title>
+    <programme channel="24小时城市联赛轮播台" start="20261007193200 +0800" stop="20261007214100 +0800">
+        <title lang="zh">浙江浙BA全场回放：诸暨87:75玉环</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20261007213900 +0800" stop="20261007233700 +0800">
-        <title lang="zh">全球通徽乒赛之夜
-2026安徽省乒乓球联赛总决赛暨颁奖典礼</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20261007233700 +0800" stop="20261008023200 +0800">
-        <title lang="zh">东北地区东北超三、四名决赛全场回放：沈阳1:0延边</title>
+    <programme channel="24小时城市联赛轮播台" start="20261007214100 +0800" stop="20261008002600 +0800">
+        <title lang="zh">山东齐鲁超半决赛首回合全场回放：烟台队1:0泰安泰山城建队</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
